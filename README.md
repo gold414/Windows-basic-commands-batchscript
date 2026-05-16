@@ -26,55 +26,55 @@ Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
 
-<img width="1920" height="111" alt="image" src="https://github.com/user-attachments/assets/e39d2af1-e0f0-4045-8bf7-fe76f9abbc01" />
+![alt text](img/1.png)
 
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
 
-<img width="1920" height="102" alt="image" src="https://github.com/user-attachments/assets/a702a25d-98b6-4c26-af3c-e1b0e5fc7746" />
+![alt text](img/2.png)
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
 
-<img width="1920" height="105" alt="image" src="https://github.com/user-attachments/assets/15bb1747-b15c-4216-9564-d2cbd40882c8" />
+![alt text](img/3.png)
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
 
-<img width="1920" height="113" alt="image" src="https://github.com/user-attachments/assets/78fe1b85-5337-417a-8650-4ca0d7dcf18d" />
+![alt text](img/4.png)
 
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
 
-<img width="1920" height="131" alt="image" src="https://github.com/user-attachments/assets/fba7d1c3-bc09-4a43-859a-1626281bda45" />
+![alt text](img/5.png)
 
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
 
-<img width="1920" height="105" alt="image" src="https://github.com/user-attachments/assets/bf5954f2-b245-4837-a84d-b4ab9d1882b9" />
+![alt text](img/6.png)
 
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
 
-<img width="1920" height="250" alt="image" src="https://github.com/user-attachments/assets/48fcd280-09d5-46cb-bfb7-62c0d5a4aa79" />
+![alt text](img/7.png)
 
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
 
-<img width="1920" height="773" alt="image" src="https://github.com/user-attachments/assets/db82bc59-7e75-4f01-8cf2-0b72535cc13e" />
+![alt text](img/8.png)
 
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
 
-<img width="1920" height="210" alt="image" src="https://github.com/user-attachments/assets/4294a779-0a03-4632-b5ae-310078416395" />
+![alt text](img/9.png)
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
@@ -89,7 +89,7 @@ pause
 ```
 ## OUTPUT
 
-<img width="1482" height="75" alt="image" src="https://github.com/user-attachments/assets/95bef936-12a9-4d56-bea5-171704341ff0" />
+![alt text](img/10.png)
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
 Prompt the user to enter a number.
@@ -131,7 +131,7 @@ pause
 
 ## OUTPUT
 
-<img width="1482" height="212" alt="image" src="https://github.com/user-attachments/assets/2810e359-9b40-4167-9aea-672e18e6cd5a" />
+![alt text](img/11.png)
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
 
@@ -150,7 +150,7 @@ pause
 
 ## OUTPUT
 
-<img width="1482" height="168" alt="image" src="https://github.com/user-attachments/assets/99500f60-05b2-42d5-9310-0fa60cdccf24" />
+![alt text](img/12.png)
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
 
@@ -176,7 +176,7 @@ pause
 
 ## OUTPUT
 
-<img width="1482" height="66" alt="image" src="https://github.com/user-attachments/assets/4e5406e3-a83b-43b4-89ae-2b9b31ba23ea" />
+![alt text](img/13.png)
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -224,7 +224,7 @@ exit
 
 ## OUTPUT
 
-<img width="1483" height="204" alt="image" src="https://github.com/user-attachments/assets/8bfc036a-8782-40c8-bddf-c050f6d598b8" />
+![alt text](img/14.png)
 
 # RESULT:
 The commands/batch files are executed successfully.
